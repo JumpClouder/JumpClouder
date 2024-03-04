@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JumpClouder
 - 👀 I’m interested in improving my coding skills
 - 🌱 I’m currently learning python
-- 😄 Pronouns: helicopetor
+- 😄 Pronouns: helicopter
 - ⚡ Fun fact: Coding is hard sometimes :{
 
 <!---

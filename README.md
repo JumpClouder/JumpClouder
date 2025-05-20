@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JumpClouder
-- 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning python
-- 😄 Pronouns: helicopter
+- 👀 I’m interested in always improving my coding skills
+- 🌱 I’m currently learning C++
 - ⚡ Fun fact: Coding is hard sometimes :{
 
 <!---
